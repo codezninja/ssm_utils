@@ -27,6 +27,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "pry", "~> 0.11.0"
 
   spec.add_dependency "paint", "~> 2"
-  spec.add_dependency "commander", "~> 4"
+  spec.add_dependency "commander", "~> 6"
   spec.add_dependency "aws-sdk-ssm", "~> 1"
 end
